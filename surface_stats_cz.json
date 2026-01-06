@@ -1,0 +1,781 @@
+{
+  "last_updated": "2026-01-06T09:07:26.406360",
+  "total_km": 392502.34,
+  "data": [
+    {
+      "type": "unknown",
+      "km": 264929.36,
+      "percent": 67.5
+    },
+    {
+      "type": "asphalt",
+      "km": 72261.27,
+      "percent": 18.41
+    },
+    {
+      "type": "ground",
+      "km": 10094.59,
+      "percent": 2.57
+    },
+    {
+      "type": "gravel",
+      "km": 6847.71,
+      "percent": 1.74
+    },
+    {
+      "type": "dirt",
+      "km": 6637.75,
+      "percent": 1.69
+    },
+    {
+      "type": "paving_stones",
+      "km": 6392.77,
+      "percent": 1.63
+    },
+    {
+      "type": "grass",
+      "km": 6070.94,
+      "percent": 1.55
+    },
+    {
+      "type": "compacted",
+      "km": 4243.08,
+      "percent": 1.08
+    },
+    {
+      "type": "unpaved",
+      "km": 4109.16,
+      "percent": 1.05
+    },
+    {
+      "type": "paved",
+      "km": 2706.34,
+      "percent": 0.69
+    },
+    {
+      "type": "fine_gravel",
+      "km": 1843.36,
+      "percent": 0.47
+    },
+    {
+      "type": "sett",
+      "km": 1479.8,
+      "percent": 0.38
+    },
+    {
+      "type": "concrete",
+      "km": 1314.76,
+      "percent": 0.33
+    },
+    {
+      "type": "earth",
+      "km": 1053.51,
+      "percent": 0.27
+    },
+    {
+      "type": "concrete:plates",
+      "km": 722.46,
+      "percent": 0.18
+    },
+    {
+      "type": "sand",
+      "km": 431.13,
+      "percent": 0.11
+    },
+    {
+      "type": "mud",
+      "km": 251.23,
+      "percent": 0.06
+    },
+    {
+      "type": "pebblestone",
+      "km": 226.46,
+      "percent": 0.06
+    },
+    {
+      "type": "cobblestone",
+      "km": 158.74,
+      "percent": 0.04
+    },
+    {
+      "type": "concrete:lanes",
+      "km": 124.81,
+      "percent": 0.03
+    },
+    {
+      "type": "wood",
+      "km": 112.31,
+      "percent": 0.03
+    },
+    {
+      "type": "rock",
+      "km": 104.6,
+      "percent": 0.03
+    },
+    {
+      "type": "grass_paver",
+      "km": 50.2,
+      "percent": 0.01
+    },
+    {
+      "type": "unhewn_cobblestone",
+      "km": 43.93,
+      "percent": 0.01
+    },
+    {
+      "type": "chipseal",
+      "km": 34.76,
+      "percent": 0.01
+    },
+    {
+      "type": "stone",
+      "km": 23.41,
+      "percent": 0.01
+    },
+    {
+      "type": "metal",
+      "km": 22.26,
+      "percent": 0.01
+    },
+    {
+      "type": "grass;ground",
+      "km": 17.85,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;gravel",
+      "km": 17.84,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;dirt",
+      "km": 11.12,
+      "percent": 0.0
+    },
+    {
+      "type": "pebblestone;ground",
+      "km": 10.38,
+      "percent": 0.0
+    },
+    {
+      "type": "earth;grass",
+      "km": 9.03,
+      "percent": 0.0
+    },
+    {
+      "type": "woodchips",
+      "km": 8.29,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;ground",
+      "km": 8.21,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;gravel",
+      "km": 7.77,
+      "percent": 0.0
+    },
+    {
+      "type": "compacted;ground",
+      "km": 7.31,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;gravel",
+      "km": 6.5,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt;sand",
+      "km": 6.25,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt_ruts",
+      "km": 6.07,
+      "percent": 0.0
+    },
+    {
+      "type": "cobblestone:flattened",
+      "km": 5.87,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete_slabs",
+      "km": 5.66,
+      "percent": 0.0
+    },
+    {
+      "type": "clay",
+      "km": 5.26,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;asphalt",
+      "km": 4.42,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;dirt",
+      "km": 3.75,
+      "percent": 0.0
+    },
+    {
+      "type": "mud;grass",
+      "km": 3.17,
+      "percent": 0.0
+    },
+    {
+      "type": "grit",
+      "km": 3.11,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete:plates:with_holes",
+      "km": 3.05,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;mud",
+      "km": 2.8,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;grass",
+      "km": 2.79,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;rock",
+      "km": 2.53,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt/sand",
+      "km": 2.47,
+      "percent": 0.0
+    },
+    {
+      "type": "stepping_stones",
+      "km": 2.41,
+      "percent": 0.0
+    },
+    {
+      "type": "metal_grid",
+      "km": 2.26,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt,_grass",
+      "km": 1.95,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;mud",
+      "km": 1.85,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt/stone",
+      "km": 1.56,
+      "percent": 0.0
+    },
+    {
+      "type": "tarmac",
+      "km": 1.51,
+      "percent": 0.0
+    },
+    {
+      "type": "rocks",
+      "km": 1.46,
+      "percent": 0.0
+    },
+    {
+      "type": "paved;earth",
+      "km": 1.34,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;roots",
+      "km": 1.19,
+      "percent": 0.0
+    },
+    {
+      "type": "mud;ground",
+      "km": 1.11,
+      "percent": 0.0
+    },
+    {
+      "type": "recycled_asphalt",
+      "km": 1.1,
+      "percent": 0.0
+    },
+    {
+      "type": "plates",
+      "km": 1.03,
+      "percent": 0.0
+    },
+    {
+      "type": "sand;grass",
+      "km": 1.02,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt;grass",
+      "km": 1.0,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;fine_gravel",
+      "km": 0.99,
+      "percent": 0.0
+    },
+    {
+      "type": "stones",
+      "km": 0.98,
+      "percent": 0.0
+    },
+    {
+      "type": "sand; paved",
+      "km": 0.94,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;gravel;sand",
+      "km": 0.94,
+      "percent": 0.0
+    },
+    {
+      "type": "moss",
+      "km": 0.93,
+      "percent": 0.0
+    },
+    {
+      "type": "bare_rock",
+      "km": 0.93,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;gravel;ground",
+      "km": 0.93,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel,ground, grass",
+      "km": 0.92,
+      "percent": 0.0
+    },
+    {
+      "type": "fine_gravel;gravel",
+      "km": 0.89,
+      "percent": 0.0
+    },
+    {
+      "type": "mud;grass;ground",
+      "km": 0.89,
+      "percent": 0.0
+    },
+    {
+      "type": "tartan",
+      "km": 0.84,
+      "percent": 0.0
+    },
+    {
+      "type": "artificial_turf",
+      "km": 0.84,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;stones",
+      "km": 0.82,
+      "percent": 0.0
+    },
+    {
+      "type": "plastic",
+      "km": 0.8,
+      "percent": 0.0
+    },
+    {
+      "type": "gound;gravel",
+      "km": 0.74,
+      "percent": 0.0
+    },
+    {
+      "type": "ground,sand",
+      "km": 0.7,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt; gravel",
+      "km": 0.65,
+      "percent": 0.0
+    },
+    {
+      "type": "sand,mud,gravel",
+      "km": 0.65,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt/stones",
+      "km": 0.62,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;earth",
+      "km": 0.6,
+      "percent": 0.0
+    },
+    {
+      "type": "tiles",
+      "km": 0.6,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;grass;gravel",
+      "km": 0.59,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete:tiles",
+      "km": 0.52,
+      "percent": 0.0
+    },
+    {
+      "type": "field",
+      "km": 0.47,
+      "percent": 0.0
+    },
+    {
+      "type": "Waldboden",
+      "km": 0.47,
+      "percent": 0.0
+    },
+    {
+      "type": "grass/dirt/stones",
+      "km": 0.46,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;pebblestone",
+      "km": 0.44,
+      "percent": 0.0
+    },
+    {
+      "type": "forest footway",
+      "km": 0.44,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;ground;gravel",
+      "km": 0.44,
+      "percent": 0.0
+    },
+    {
+      "type": "stones/dirt",
+      "km": 0.42,
+      "percent": 0.0
+    },
+    {
+      "type": "paving_stones:50",
+      "km": 0.4,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;rock",
+      "km": 0.4,
+      "percent": 0.0
+    },
+    {
+      "type": "sliding",
+      "km": 0.33,
+      "percent": 0.0
+    },
+    {
+      "type": "construction",
+      "km": 0.33,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;mud",
+      "km": 0.31,
+      "percent": 0.0
+    },
+    {
+      "type": "roots",
+      "km": 0.31,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt;rock;wood",
+      "km": 0.31,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt,gravel",
+      "km": 0.3,
+      "percent": 0.0
+    },
+    {
+      "type": "paving_stones:lanes",
+      "km": 0.28,
+      "percent": 0.0
+    },
+    {
+      "type": "grass/trees",
+      "km": 0.28,
+      "percent": 0.0
+    },
+    {
+      "type": "big_stones",
+      "km": 0.26,
+      "percent": 0.0
+    },
+    {
+      "type": "terrazzo",
+      "km": 0.26,
+      "percent": 0.0
+    },
+    {
+      "type": "rubbish",
+      "km": 0.26,
+      "percent": 0.0
+    },
+    {
+      "type": "grass,_dirt",
+      "km": 0.25,
+      "percent": 0.0
+    },
+    {
+      "type": "wood+metal",
+      "km": 0.23,
+      "percent": 0.0
+    },
+    {
+      "type": "grass,_mud",
+      "km": 0.22,
+      "percent": 0.0
+    },
+    {
+      "type": "moor;mud;wetland",
+      "km": 0.22,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt;gravel",
+      "km": 0.21,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;ground;grass",
+      "km": 0.2,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;grass",
+      "km": 0.18,
+      "percent": 0.0
+    },
+    {
+      "type": "bricks",
+      "km": 0.17,
+      "percent": 0.0
+    },
+    {
+      "type": "sumpfig",
+      "km": 0.16,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete_paves",
+      "km": 0.15,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;sett",
+      "km": 0.13,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;concrete",
+      "km": 0.12,
+      "percent": 0.0
+    },
+    {
+      "type": "steel",
+      "km": 0.12,
+      "percent": 0.0
+    },
+    {
+      "type": "ground; concrete",
+      "km": 0.11,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel:lanes",
+      "km": 0.11,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;clay;gravel",
+      "km": 0.09,
+      "percent": 0.0
+    },
+    {
+      "type": "fine_gravel;asphalt",
+      "km": 0.08,
+      "percent": 0.0
+    },
+    {
+      "type": "iron",
+      "km": 0.08,
+      "percent": 0.0
+    },
+    {
+      "type": "rubber",
+      "km": 0.08,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt,grass",
+      "km": 0.07,
+      "percent": 0.0
+    },
+    {
+      "type": "compacted;stone",
+      "km": 0.07,
+      "percent": 0.0
+    },
+    {
+      "type": "fiwwne_gravel",
+      "km": 0.07,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel_turf",
+      "km": 0.06,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel/rock/grass",
+      "km": 0.06,
+      "percent": 0.0
+    },
+    {
+      "type": "grass;small_trees",
+      "km": 0.06,
+      "percent": 0.0
+    },
+    {
+      "type": "carpet",
+      "km": 0.06,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;compacted",
+      "km": 0.05,
+      "percent": 0.0
+    },
+    {
+      "type": "sand;paved",
+      "km": 0.05,
+      "percent": 0.0
+    },
+    {
+      "type": "dirt; paved",
+      "km": 0.05,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt_and_dirt",
+      "km": 0.04,
+      "percent": 0.0
+    },
+    {
+      "type": "ground,sand,mud",
+      "km": 0.04,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete;asphalt",
+      "km": 0.04,
+      "percent": 0.0
+    },
+    {
+      "type": "salt",
+      "km": 0.04,
+      "percent": 0.0
+    },
+    {
+      "type": "stone;ground",
+      "km": 0.03,
+      "percent": 0.0
+    },
+    {
+      "type": "concrete_slab",
+      "km": 0.03,
+      "percent": 0.0
+    },
+    {
+      "type": "interlock",
+      "km": 0.03,
+      "percent": 0.0
+    },
+    {
+      "type": "grass_paver:lanes",
+      "km": 0.02,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;wood",
+      "km": 0.02,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;concrete",
+      "km": 0.02,
+      "percent": 0.0
+    },
+    {
+      "type": "gravel;sand",
+      "km": 0.02,
+      "percent": 0.0
+    },
+    {
+      "type": "ground;stone",
+      "km": 0.01,
+      "percent": 0.0
+    },
+    {
+      "type": "wood;ground",
+      "km": 0.01,
+      "percent": 0.0
+    },
+    {
+      "type": "brick",
+      "km": 0.01,
+      "percent": 0.0
+    },
+    {
+      "type": "asphalt;paving_stones",
+      "km": 0.0,
+      "percent": 0.0
+    },
+    {
+      "type": "granit:plates",
+      "km": 0.0,
+      "percent": 0.0
+    },
+    {
+      "type": "sett;asphalt",
+      "km": 0.0,
+      "percent": 0.0
+    },
+    {
+      "type": "glass",
+      "km": 0.0,
+      "percent": 0.0
+    }
+  ]
+}

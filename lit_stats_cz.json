@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-01-06T09:07:26.408136",
+  "total_km": 392502.34,
+  "data": [
+    {
+      "type": "undefined",
+      "km": 371156.94,
+      "percent": 94.56
+    },
+    {
+      "type": "yes",
+      "km": 14611.86,
+      "percent": 3.72
+    },
+    {
+      "type": "no",
+      "km": 6691.71,
+      "percent": 1.7
+    },
+    {
+      "type": "other",
+      "km": 41.84,
+      "percent": 0.01
+    }
+  ]
+}
